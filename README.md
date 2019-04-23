@@ -1,9 +1,9 @@
 # Timber
 [![Build Status](https://travis-ci.org/naman14/Timber.svg?branch=master)](https://travis-ci.org/naman14/Timber)
 
-Material Design Music Player
+基于FWIFI连接的签到系统
 
-This project is no longer in active development. Please refer to [TimberX](https://github.com/naman14/TimberX) instead
+ [SingnInSystem](https://blog.csdn.net/qq_43377749/article/details/84260635) instead
 
 <a href='https://play.google.com/store/apps/details?id=naman14.timber&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
 
@@ -11,57 +11,21 @@ This project is no longer in active development. Please refer to [TimberX](https
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen2.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen3.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen7.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen8.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen9.jpg" width="330" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen10.jpg" width="330" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen1.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen5.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen12.jpg" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen4.png" width="360" height="640">
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/screen6.png" width="360" height="640">
-
-## Features
-- Material design
-- Browse Songs, Albums, Artists
-- Create and edit playlists
-- 6 different now playing styles
-- Homescreen widgets
-- Browse device folders
-- Dark theme and UI customisability
-- Gestures for track switching
-- LastFM scrobble
-- Android Wear and Android Auto support
-- Playing queue in notification (Xposed)
-- Lyrics support
-- Chromecast support
-
-## Changelog
-
-Changelog is available [here](https://github.com/naman14/Timber/blob/master/Changelog.md)
+<img src="https://github.com/FishInWater-1999/android-SignInSystem/blob/master/first_page.jpg" width="360" height="640">
 
 ## Credits
 
-* CyanogenMod's [Eleven Music Player](https://github.com/CyanogenMod/android_packages_apps_Eleven)
-* [TimelyTextView](https://github.com/adnan-SM/TimelyTextView)
-* [MultiViewPager](https://github.com/Pixplicity/MultiViewPager)
-* [PlayPauseButton](https://github.com/recruit-lifestyle/PlayPauseButton)
-* [CircularSeekBar](https://github.com/devadvance/circularseekbar)
-* [Nammu](https://github.com/tajchert/Nammu)
-
-# Donate
-Paypal donation email-
-namandwivedi14@gmail.com
-
+* [Bmob](https://www.bmob.cn)
+* [okHttp](https://github.com/square/okhttp)
+* [circleimageview](https://github.com/hdodenhof/CircleImageView)
+* [gifView](https://github.com/Cutta/GifView)
+* [rollviewpager](https://github.com/Jude95/RollViewPager)
+* [espresso](https://github.com/TonnyL/Espresso)
 
 ## License
 
->(c) 2015 Naman Dwivedi 
+>(c) 2018 FishInWater-1999
 
->This is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. 
+>这是一个免费的软件，本软件主要用于协会成员签到与考勤。
 
->This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. 
-
->You should have received a copy of the GNU General Public License along with this app. If not, see <https://www.gnu.org/licenses/>.
+>这是一个免费的软件，本软件主要用于协会成员签到与考勤。由于各种原因限制，本仓库只上传了上古版本的代码，只具备手机登录、账户登录、列表读取等功能。完整项目中，包括主题换肤，考勤柱状图，找回密码，以及类似贴吧的聊天区等功能未进行上传，再次表示歉意。
